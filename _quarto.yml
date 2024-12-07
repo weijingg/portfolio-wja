@@ -7,18 +7,18 @@ project:
 from: markdown+emoji
 
 website:
-  title: "From R Markdown to Quarto"
+  title: "Wei Jing Ang"
   page-navigation: true
   navbar:
     background: light
     foreground: dark
     right:
-      - text: "Overview"
+      - text: "Home"
         href: index.qmd
-      - text: "Materials"
-        href: materials/index.qmd
-      - text: "About"
-        href: about.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Collection"
+        href: collection.qmd
   
   sidebar:
     - id: materials
