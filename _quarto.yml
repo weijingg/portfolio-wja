@@ -1,7 +1,6 @@
 project:
   type: website
-  render:
-    - "*.qmd"
+  output-dir: docs
 
 from: markdown+emoji
 
