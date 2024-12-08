@@ -1,7 +1,7 @@
 Portfolio
 ================
 
-### Wei Jing Ang 😊
+### Wei Jing Ang
 
 -----
 
