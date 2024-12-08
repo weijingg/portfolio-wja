@@ -13,33 +13,43 @@ editor: source
 # Wei Jing Ang
 
 #### Master's Student in Urban Spatial Analytics at University of Pennsylvania
+</br>
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=uX6hQK4AAAAJ&hl=en&authuser=1&oi=ao" target="_blank">
+    <i class="fa-brands fa-google-scholar fa-lg"></i></a> ·
+  <a href="https://www.linkedin.com/in/wei-jing-ang/" target="_blank">
+    <i class="fa-brands fa-linkedin fa-lg"></i></a> ·
+  <a href="https://github.com/weijingg" target="_blank">
+    <i class="fa-brands fa-github fa-lg"></i></a>
+</p>
 :::
 
 ::: {.g-col-6}
 
-
-
-![](images/me.png){fig-alt="Profile"}
+![](images/pf.png){fig-alt="Profile" id="Profile"}
 
 :::
 
 :::
-
+</br>
 I love maps and data. Through my collection of scientific designs made from research work in geospatial analysis and hydrology, I seek to portray the beauty of data, space, and our environment. I have three journal publications and three years of research experience in GIS, remote sensing, hydrology, and geomorphology. With an interest in foreign cultures and minor in Modern Languages, I’m fluent in English, Chinese, and Japanese.
 
 ::: content-block
+### Publications
 ::: features
 ::: feature
-### 2020-2021
-
--   9-10:30 am [Welcome to Quarto](materials/1-welcome-to-quarto)
+[![](images/Slide4.jpeg)](projects/index.qmd){fig-alt="Amazon" id="Amazon"}
 
 :::
 
 ::: feature
-### 2021-2022
+[![](images/Slide6.jpeg)](projects/index.qmd){fig-alt="Lakes" id="Lakes"}
 
--   9-10:30 am [Presentations](materials/5-presentations)
+:::
+
+::: feature
+[![](images/Slide8.jpeg)](projects/index.qmd){fig-alt="Mekong" id="Mekong"}
 
 :::
 :::

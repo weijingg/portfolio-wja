@@ -2,13 +2,34 @@ project:
   type: website
   render:
     - "*.qmd"
-    - "!materials/*/exercises/"
 
 from: markdown+emoji
 
 website:
   title: "Wei Jing Ang"
   page-navigation: true
+  
+  sidebar:
+    - id: projects
+      title: "Projects"
+      style: "floating"
+      align: left
+      contents:
+        - text: "Projects"
+          href: projects/index.qmd
+        - text: "1. Welcome to Quarto"
+          href: projects/1-welcome-to-quarto/index.qmd
+        - text: "2. Polishing Documents"
+          href: projects/2-polishing-documents/index.qmd
+        - text: "3. Computation"
+          href: projects/3-computation/index.qmd
+        - text: "4. Projects and Publishing"
+          href: projects/4-projects-and-publishing/index.qmd
+
+    - id: collection
+      contents:
+        - collection.qmd
+  
   navbar:
     background: light
     foreground: dark
@@ -19,38 +40,10 @@ website:
         href: projects/index.qmd
       - text: "Collection"
         href: collection.qmd
-  
-  sidebar:
-    - id: materials
-      title: "Materials"
-      style: "floating"
-      align: left
-      contents:
-          - text: "Materials"
-            href: materials/index.qmd
-          - text: "1. Welcome to Quarto"
-            href: materials/1-welcome-to-quarto/index.qmd
-          - text: "2. Polishing Documents"
-            href: materials/2-polishing-documents/index.qmd
-          - text: "3. Computation"
-            href: materials/3-computation/index.qmd
-          - text: "4. Projects and Publishing"
-            href: materials/4-projects-and-publishing/index.qmd
-          - text: "5. Presentations"
-            href: materials/5-presentations/index.qmd
-          - text: "6. Websites and Books"
-            href: materials/6-websites-and-books/index.qmd
-          - text: "7. Workshop"
-            href: materials/7-workshop/index.qmd
-          - text: "8. The Future of Quarto"
-            href: materials/8-future-of-quarto/index.qmd
-    - id: about
-      contents:
-        - about.qmd
-    
+        
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."
-    left: "&copy; 2022, Andrew Bray"
+    left: "2024, Wei Jing Ang"
 
 format: 
   html:
@@ -63,6 +56,3 @@ execute:
     
 # Design tips:
 # 1. maggieappleton.com
-# 2. Palette: https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster
-
-  

@@ -162,6 +162,32 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;70
   @import url($web-font-path);
 }
 
+// Pfp
+
+#Profile { /* Target pfp */
+    max-width: 70%;
+    margin-left: 70px;
+}
+
+// Publication thumbnails
+
+#publications .features {
+  display: flex; /* Enables flexbox */
+  justify-content: space-between; /* Adjust spacing between items */
+  align-items: center; /* Align items vertically */
+  gap: 70px; /* Optional: Add space between features */
+}
+
+#publications .feature {
+  flex: 1; /* Ensures each feature takes equal space */
+  text-align: center; /* Centers the content of each feature */
+}
+
+#publications .feature img {
+  max-width: 155%; /* Ensures images are responsive */
+  height: auto; /* Maintain aspect ratio */
+}
+
 // Navbar
 
 .bg-primary {
