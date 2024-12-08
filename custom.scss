@@ -165,8 +165,8 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;70
 // Pfp
 
 #Profile { /* Target pfp */
-    max-width: 70%;
-    margin-left: 70px;
+    max-width: 90%;
+    margin-left: 5px;
 }
 
 // Publication thumbnails
@@ -175,7 +175,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;70
   display: flex; /* Enables flexbox */
   justify-content: space-between; /* Adjust spacing between items */
   align-items: center; /* Align items vertically */
-  gap: 70px; /* Optional: Add space between features */
+  gap: 85px; /* Optional: Add space between features */
 }
 
 #publications .feature {
@@ -184,7 +184,7 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;70
 }
 
 #publications .feature img {
-  max-width: 155%; /* Ensures images are responsive */
+  max-width: 170%; /* Ensures images are responsive */
   height: auto; /* Maintain aspect ratio */
 }
 

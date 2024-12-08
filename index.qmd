@@ -9,23 +9,23 @@ editor: source
 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-7} 
 # Wei Jing Ang
 
-#### Master's Student in Urban Spatial Analytics at University of Pennsylvania
+#### Master's Student in Urban Spatial Analytics </br> at the University of Pennsylvania
 </br>
 
 <p align="left">
   <a href="https://scholar.google.com/citations?user=uX6hQK4AAAAJ&hl=en&authuser=1&oi=ao" target="_blank">
-    <i class="fa-brands fa-google-scholar fa-lg"></i></a> ·
+    <i class="fa-brands fa-google-scholar fa-lg"></i></a> &nbsp;
   <a href="https://www.linkedin.com/in/wei-jing-ang/" target="_blank">
-    <i class="fa-brands fa-linkedin fa-lg"></i></a> ·
+    <i class="fa-brands fa-linkedin fa-lg"></i></a> &nbsp;
   <a href="https://github.com/weijingg" target="_blank">
     <i class="fa-brands fa-github fa-lg"></i></a>
 </p>
 :::
 
-::: {.g-col-6}
+::: {.g-col-5}
 
 ![](images/pf.png){fig-alt="Profile" id="Profile"}
 
@@ -33,23 +33,23 @@ editor: source
 
 :::
 </br>
-I love maps and data. Through my collection of scientific designs made from research work in geospatial analysis and hydrology, I seek to portray the beauty of data, space, and our environment. I have three journal publications and three years of research experience in GIS, remote sensing, hydrology, and geomorphology. With an interest in foreign cultures and minor in Modern Languages, I’m fluent in English, Chinese, and Japanese.
+I love maps and data. Through my collection of scientific designs made from research work in geospatial analysis and hydrology, I seek to portray the beauty of data, space, and our environment. I have three journal publications and three years of research experience in GIS, remote sensing, hydrology, and geomorphology. With an interest in languages, I’m fluent in English, Chinese, and Japanese.
 
 ::: content-block
 ### Publications
 ::: features
 ::: feature
-[![](images/Slide4.jpeg)](projects/index.qmd){fig-alt="Amazon" id="Amazon"}
+[![](images/Slide4.jpeg)](projects/Amazon/index.qmd){fig-alt="Amazon" id="Amazon"}
 
 :::
 
 ::: feature
-[![](images/Slide6.jpeg)](projects/index.qmd){fig-alt="Lakes" id="Lakes"}
+[![](images/Slide6.jpeg)](projects/Lakes/index.qmd){fig-alt="Lakes" id="Lakes"}
 
 :::
 
 ::: feature
-[![](images/Slide8.jpeg)](projects/index.qmd){fig-alt="Mekong" id="Mekong"}
+[![](images/Slide8.jpeg)](projects/Mekong/index.qmd){fig-alt="Mekong" id="Mekong"}
 
 :::
 :::

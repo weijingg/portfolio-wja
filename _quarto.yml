@@ -9,29 +9,31 @@ website:
   page-navigation: true
   
   sidebar:
-    - id: projects
-      title: "Projects"
-      style: "floating"
-      align: left
-      contents:
-        - text: "Projects"
-          href: projects/index.qmd
-        - text: "1. Welcome to Quarto"
-          href: projects/1-welcome-to-quarto/index.qmd
-        - text: "2. Polishing Documents"
-          href: projects/2-polishing-documents/index.qmd
-        - text: "3. Computation"
-          href: projects/3-computation/index.qmd
-        - text: "4. Projects and Publishing"
-          href: projects/4-projects-and-publishing/index.qmd
+    # - id: projects
+    #   title: "Projects"
+    #   style: "floating"
+    #   align: left
+    #   contents:
+    #     - text: "Projects"
+    #       href: projects/index.qmd
+    #     - text: "Amazon"
+    #       href: projects/Amazon/index.qmd
+    #     - text: "Lakes"
+    #       href: projects/Lakes/index.qmd
+    #     - text: "Mekong"
+    #       href: projects/Mekong/index.qmd
 
     - id: collection
       contents:
         - collection.qmd
   
   navbar:
+    title: false
     background: light
     foreground: dark
+    left:
+      - text: '<img src="/images/logo.png" alt="Logo" style="height:60px;">'
+        href: index.html
     right:
       - text: "Home"
         href: index.qmd
