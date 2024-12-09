@@ -44,7 +44,7 @@ website:
         
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."
-    left: "2024, Wei Jing Ang"
+    left: "2024, WJA"
 
 format: 
   html:

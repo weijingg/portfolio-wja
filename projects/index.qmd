@@ -2,22 +2,34 @@
 title: "Projects"
 ---
 
-::: content-block
-### Publications
-::: features
-::: feature
-[![](/images/Slide4.jpeg)](Amazon/index.qmd){fig-alt="Amazon" id="Amazon"}
-
+### Amazon
+::: {.grid}
+::: {.g-col-6}
+[![](/images/Slide4.jpeg)](Amazon/index.qmd){fig-alt="Amazon"}
 :::
 
-::: feature
-[![](/images/Slide6.jpeg)](Lakes/index.qmd){fig-alt="Lakes" id="Lakes"}
-
+::: {.g-col-6}
+[![](/images/three_amazons.png)](Three_Amazons/index.qmd){fig-alt="Three Amazons"}
+:::
 :::
 
-::: feature
-[![](/images/Slide8.jpeg)](Mekong/index.qmd){fig-alt="Mekong" id="Mekong"}
-
+### Lakes
+::: {.grid}
+::: {.g-col-6}
+[![](/images/Slide6.jpeg)](Lakes/index.qmd){fig-alt="Lakes"}
 :::
+
+::: {.g-col-6}
+:::
+:::
+
+### Mekong
+::: {.grid}
+::: {.g-col-6}
+[![](/images/Slide8.jpeg)](Mekong/index.qmd){fig-alt="Mekong"}
+:::
+
+::: {.g-col-6}
+[![](/images/story.png)](Story/story.html){fig-alt="Story"}
 :::
 :::

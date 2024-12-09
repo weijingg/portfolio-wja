@@ -1,0 +1,5 @@
+---
+title: "Three Amazons"
+---
+
+![](/images/three_amazons.png)
