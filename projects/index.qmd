@@ -5,31 +5,33 @@ title: "Projects"
 ### Amazon
 ::: {.grid}
 ::: {.g-col-6}
-[![](/images/Slide4.jpeg)](Amazon/index.qmd){fig-alt="Amazon"}
+[![](/images/Slide4.jpeg)](Amazon/amazon_pub.qmd){fig-alt="Amazon"}
 :::
 
 ::: {.g-col-6}
-[![](/images/three_amazons.png)](Three_Amazons/index.qmd){fig-alt="Three Amazons"}
+[![](/images/amazon_three/Slide1.png)](Amazon/amazon_three.qmd){fig-alt="Three Amazons"}
 :::
 :::
 
-### Lakes
 ::: {.grid}
 ::: {.g-col-6}
-[![](/images/Slide6.jpeg)](Lakes/index.qmd){fig-alt="Lakes"}
+### Lakes
+[![](/images/Slide6.jpeg)](Lakes/lakes_pub.qmd){fig-alt="Lakes"}
 :::
 
 ::: {.g-col-6}
+### Skyrise greenery
+[![](/images/skyrise.png)](https://storymaps.arcgis.com/stories/25467ad902224761b111cd5f588f8d0e){fig-alt="Skyrise greenery"}
 :::
 :::
 
 ### Mekong
 ::: {.grid}
 ::: {.g-col-6}
-[![](/images/Slide8.jpeg)](Mekong/index.qmd){fig-alt="Mekong"}
+[![](/images/Slide8.jpeg)](Mekong/dams_pub.qmd){fig-alt="Mekong"}
 :::
 
 ::: {.g-col-6}
-[![](/images/story.png)](Story/story.html){fig-alt="Story"}
+[![](/images/story.png)](Mekong/dams_story.html){fig-alt="Story"}
 :::
 :::

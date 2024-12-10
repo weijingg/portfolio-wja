@@ -25,7 +25,12 @@ website:
 
     - id: collection
       contents:
-        - collection.qmd
+        - text: "Collection"
+          href: collection/index.qmd
+        - text: "Maps" 
+          href: collection/maps.qmd
+        - text: "Photography"
+          href: collection/photography.qmd
   
   navbar:
     title: false
@@ -40,7 +45,7 @@ website:
       - text: "Projects"
         href: projects/index.qmd
       - text: "Collection"
-        href: collection.qmd
+        href: collection/index.qmd
         
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."

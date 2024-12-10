@@ -41,15 +41,15 @@ I love maps and data. Through my collection of scientific designs made from rese
 ### Publications
 ::: {.grid}
 ::: {.g-col-4}
-[![](images/Slide4.jpeg)](projects/Amazon/index.qmd){fig-alt="Amazon" id="Amazon"}
+[![](images/Slide4.jpeg)](projects/Amazon/amazon_pub.qmd){fig-alt="Amazon" id="Amazon"}
 :::
 
 ::: {.g-col-4}
-[![](images/Slide6.jpeg)](projects/Lakes/index.qmd){fig-alt="Lakes" id="Lakes"}
+[![](images/Slide6.jpeg)](projects/Lakes/lakes_pub.qmd){fig-alt="Lakes" id="Lakes"}
 :::
 
 ::: {.g-col-4}
-[![](images/Slide8.jpeg)](projects/Mekong/index.qmd){fig-alt="Mekong" id="Mekong"}
+[![](images/Slide8.jpeg)](projects/Mekong/dams_pub.qmd){fig-alt="Mekong" id="Mekong"}
 :::
 
 :::
