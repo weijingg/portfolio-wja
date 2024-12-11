@@ -31,7 +31,9 @@ website:
           href: collection/maps.qmd
         - text: "Photography"
           href: collection/photography.qmd
-  
+        - text: "Diagrams"
+          href: collection/diagrams.qmd
+
   navbar:
     title: false
     background: light
