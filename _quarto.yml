@@ -29,8 +29,8 @@ website:
           href: collection/index.qmd
         - text: "Maps" 
           href: collection/maps.qmd
-        - text: "Photography"
-          href: collection/photography.qmd
+        - text: "Photographs"
+          href: collection/photographs.qmd
         - text: "Diagrams"
           href: collection/diagrams.qmd
 

@@ -20,7 +20,7 @@ title: "Projects"
 :::
 
 ::: {.g-col-6}
-### Skyrise greenery
+### Greenery
 [![](/images/skyrise.png)](https://storymaps.arcgis.com/stories/25467ad902224761b111cd5f588f8d0e){fig-alt="Skyrise greenery"}
 :::
 :::

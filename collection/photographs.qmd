@@ -1,0 +1,306 @@
+---
+title: "Photographs"
+---
+
+::: {.grid}
+::: {.g-col-3}
+![](/images/photos/1-pov1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/2-pov2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/3-pov3.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/4-pov4.JPG)
+:::
+
+::: {.g-col-3}
+![](/images/photos/5-pov5.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/6-pov6.jpg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/7-pov9.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/8-pov10.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/9-arch1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/10-arch2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/11-arch3.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/12-arch4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/13-arch5.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/14-arch6.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/15-glass1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/17-down1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/18-down2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/19-building1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/20-building2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/21-building3.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/22-building4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/23-building4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/24-building5.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/25-city1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/26-city2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/27-tokyo2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/29-cali1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/30-cali2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/28-tokyo1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/70-whim3.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/71-whim1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/31-barrage1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/32-barrage2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/33-jurong1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/34-jurong2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/35-ct1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/36-ct2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/37-culture1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/40-lights2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/38-culture2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/39-lights1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/41-hana1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/42-hana2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/43-nature4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/69-whim4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/44-nature3.JPG)
+:::
+
+::: {.g-col-3}
+![](/images/photos/45-hole2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/46-hole1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/47-close1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/48-close2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/49-pillar1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/51-nature7.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/56-nature6.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/54-nature2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/53-nature1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/55-nature5.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/57-nature9.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/59-sky4.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/60-sky3.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/58-nature10.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/61-sky2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/62-sky1.jpg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/65-sea1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/66-sea2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/68-sea4.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/63-plane2.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/75-statue1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/76-statue2.jpg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/64-plane1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/77-wild2.JPG)
+:::
+
+::: {.g-col-6}
+![](/images/photos/74-wood1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/78-wild1.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/73-wood2.JPG)
+:::
+
+::: {.g-col-3}
+![](/images/photos/80-cat1.jpeg)
+:::
+
+::: {.g-col-3}
+![](/images/photos/79-cat2.jpeg)
+:::
+
+:::
