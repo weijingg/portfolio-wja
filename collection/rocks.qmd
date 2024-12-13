@@ -1,0 +1,85 @@
+---
+title: "Rocks"
+---
+
+::: {.grid}
+::: {.g-col-6}
+![](/images/rocks/1-blue2.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/2-blue1.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/3-dendro1.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/4-dendro2.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/5-amphibole.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/6-dacite.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/7-clinopyroxene.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/8-plagio.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/9-biotite_light.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/10-light.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/11-black.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/12-calcite.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/13-igneous1.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/14-igneous2.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/15-fossil1.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/16-fossil2.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/meta1a.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/meta1b.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/meta2a.png)
+:::
+
+::: {.g-col-6}
+![](/images/rocks/meta2b.png)
+:::
+:::

@@ -43,6 +43,10 @@ title: "Maps"
 ![](/images/30days/16-WeiJing-Choropleth.png)
 :::
 
+::: {.g-col-12}
+![](/images/map.png)
+:::
+
 ::: {.g-col-6}
 ![](/images/Layout_BW.png)
 :::
