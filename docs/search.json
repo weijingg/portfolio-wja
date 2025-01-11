@@ -7,11 +7,18 @@
     "text": "Wei Jing Ang\nMaster’s Student in Urban Spatial Analytics  at the University of Pennsylvania\n\n\n         \n\n\n\n\n\n\n I love maps and data. Through my collection of scientific designs made from research work in geospatial analysis and hydrology, I seek to portray the beauty of data, space, and our environment. I did my undergraduate degree in Earth Science, specialising in the Geosciences. I have three journal publications and three years of research experience in GIS, remote sensing, hydrology, and geomorphology. With an interest in languages, I’m fluent in English, Chinese, and Japanese.   \nPublications"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/Lakes/lakes_pub.html",
+    "href": "projects/Lakes/lakes_pub.html",
+    "title": "Lake hysteresis",
     "section": "",
-    "text": "Amazon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLakes\n\n\n\nGreenery\n\n\n\n\nMekong"
+    "text": "Ang, W. J., Park, E., & Yang, X. (2022). Geomorphic control on stage-area hysteresis in three of the largest floodplain lakes. Journal of Hydrology, 614, 128574. https://doi.org/10.1016/j.jhydrol.2022.128574"
+  },
+  {
+    "objectID": "projects/Mekong/dams_pub.html",
+    "href": "projects/Mekong/dams_pub.html",
+    "title": "Dam distribution analysis",
+    "section": "",
+    "text": "Ang, W. J., Park, E., Tran, D. D., Loc, H. H., & Pokhrel, Y. (2023). Dams in the Mekong: a comprehensive database, spatiotemporal distribution, and hydropower potentials. Earth System Science Data Discussions, 2023, 1-30. https://doi.org/10.5194/essd-16-1209-2024"
   },
   {
     "objectID": "projects/Amazon/amazon_three.html",
@@ -38,17 +45,24 @@
     "text": "Ang, W. J., Park, E., & Alcantara, E. (2021). Mapping floodplain bathymetry in the middle-lower Amazon River using inundation frequency and field control. Geomorphology, 392, 107937. https://doi.org/10.1016/j.geomorph.2021.107937"
   },
   {
-    "objectID": "projects/Mekong/dams_pub.html",
-    "href": "projects/Mekong/dams_pub.html",
-    "title": "Dam distribution analysis",
+    "objectID": "projects/Modelling/chicago.html",
+    "href": "projects/Modelling/chicago.html",
+    "title": "ChicaGo!",
     "section": "",
-    "text": "Ang, W. J., Park, E., Tran, D. D., Loc, H. H., & Pokhrel, Y. (2023). Dams in the Mekong: a comprehensive database, spatiotemporal distribution, and hydropower potentials. Earth System Science Data Discussions, 2023, 1-30. https://doi.org/10.5194/essd-16-1209-2024"
+    "text": "With fewer than 40 health inspectors in charge of over 15,000 food establishments across Chicago, the Department of Public Health seeks to optimize the allocation of its limited manpower and resources. This project presents a new application, powered by a predictive model using historical inspection data, to identify food establishments most at risk of failing inspections. By prioritizing these high-risk establishments, the health department can direct inspection efforts towards where they are most needed. To learn more about the logistic regression model, please refer to this report."
   },
   {
-    "objectID": "projects/Lakes/lakes_pub.html",
-    "href": "projects/Lakes/lakes_pub.html",
-    "title": "Lake hysteresis",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "Ang, W. J., Park, E., & Yang, X. (2022). Geomorphic control on stage-area hysteresis in three of the largest floodplain lakes. Journal of Hydrology, 614, 128574. https://doi.org/10.1016/j.jhydrol.2022.128574"
+    "text": "Amazon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLakes\n\n\n\nGreenery\n\n\n\n\nMekong\n\n\n\n\n\n\n\n\n\n\n\nModelling\n\n\n\nSentiments"
+  },
+  {
+    "objectID": "projects/Sentiments/alice.html",
+    "href": "projects/Sentiments/alice.html",
+    "title": "Wonderland and Looking Glass",
+    "section": "",
+    "text": "Lewis Carroll’s Alice’s Adventures in Wonderland (1865) and its sequel, Through the Looking-Glass and What Alice Found There (1871), are two of the most beloved works in English literature. Both books follow the adventures of a young girl named Alice as she journeys through fantastical and often nonsensical worlds.\nIn Alice’s Adventures in Wonderland, Alice falls down a rabbit hole into a magical realm filled with peculiar characters such as the Cheshire Cat and Mad Hatter. The story is known for its whimsical narrative and exploration of themes like curiosity, identity, and the absurdity of adult rules.\nThrough the Looking-Glass serves as a sequel but is distinct in tone and structure. Alice, now half a year older, steps through a mirror into a world that operates like a giant chessboard, where she encounters figures such as Tweedledee and Tweedledum, and the Red and White Queens. This book is darker and more introspective, with greater emphasis on the loss of childhood innocence and transition into adulthood.\nThis project compares the dominant sentiments and emotional tones across the two books, revealing patterns on their emotional depth and narrative structure, and offering fresh insights into Carroll’s imaginative storytelling.\nSentiment analysis involves extracting emotions expressed in text. A sentiment lexicon is a collection of words, each associated with a score indicating its positive, negative, or neutral sentiment. Various lexicons (e.g. NRC, AFINN, Syuzhet) are used to analyze sentiment scores. Both texts are split into paragraphs and several paragraphs are grouped as one corpus entry. To account for uneven word counts across entries, the total sentiment score of each entry is weighed by the number of terms and normalized.\n\nAlice’s Adventures in Wonderland\nIn Alice’s Adventures in Wonderland, the words that appear the most frequently include “came”, “went”, “looked”, “think”, and “say”. These words are simple verbs, which can be expected in a work primarily written as a children’s book. These verbs are also fitting in the story’s context, considering that it is about an adventure that involves meeting many new characters.\n\nLooking at the main sentiment identified across the paragraphs (using the NRC sentiment lexicon), positive sentiments are the most common, as expected from a children’s book, followed by negative sentiments, likely when Alice encounters strange situations and characters in her dream. There is a wide range of sentiments, including anger, anticipation, fear, sadness, surprise, and trust, suggesting that the work is emotionally-rich and expressive.\n\nThe constant variation in emotional intensity across the book could be what creates suspense in the story, keeping readers engaged and in anticipation of what will happen next. In particular, the overall sentiment intensity is higher towards the end of the story when Alice encounters the Queen of Hearts (who threatens her) and wakes up in a shock.\n\nThe same frightful encounter with the Queen is evident when using the AFINN lexicon, where there is a strong negative score right before the somewhat positive ending.\n\n\n\nThrough the Looking-Glass\nIn Through the Looking-Glass, the most frequently occurring words include “like,” “now,” “last,” “always,” and “good”. Compared to Alice’s Adventures in Wonderland, these words convey a more mature tone and are less expressive. With simple verbs appearing less often, the story feels less adventurous and whimsical.\n\n\n\n The more subdued tone is also evident in the main sentiments identified across the paragraphs. While positive sentiments are still the most common, followed by negative sentiments, there is a smaller range of sentiments compared to Alice’s Adventures in Wonderland despite the longer text. Anticipation stands out as the third most frequent emotion, primarily expressed through the structure of the chess game as Alice progresses through the squares.\nInterestingly, while the first book had sadness as a main sentiment in several corpus entries, the sequel has joy as a main sentiment, suggesting that while the second book is more mature and explores the transition from childhood to adulthood, it is not necessarily somber in tone.\n\nLike in the first story, the emotional intensity varies across the book, keeping readers engaged. The intensity peaks when Alice, now the queen, argues with the Red and White Queens, who insist that Alice throw a party, yet deny her the right to invite her own guests. Although Alice wants to be a queen throughout the story, actually becoming a queen was not as enjoyable as she expected. The party is seen as a metaphor for adulthood, which appears desirable during childhood, yet not what one might expect upon growing up (LitCharts, 2024).\n\nThis strong negative sentiment during the party is also seen when using other lexicons like Syuzhet. The sentiment score generally increases from negative to positive after the argument, and the story ends on a positive note, when Alice wakes up and chats with her cats about her dream.\nAnother strong negative sentiment is captured when Tweedledee and Tweedledum tell Alice that she is not real but just a character within the dream of the Red King, and Alice cries as she questions her existence and reality. This section of the story also challenges the readers to question reality, free will, and the notion of existence as a fragment of divine imagination (SparkNotes, 2024).\n\n\n\nDiscussion\nOverall, Lewis Carroll’s Through the Looking-Glass and What Alice Found There has a more mature and subdued tone, though not necessarily somber. In contrast, Alice’s Adventures in Wonderland carries a more adventure-like and light-hearted tone, evoking childhood innocence. This sense of wonder diminishes in the second book, as Alice learns about adulthood and comes to accept the sometimes questionable world for what it is.\nBoth books feature a dynamic range of emotional intensity, exploring a fairly broad spectrum of feelings. This emotional variation may be what has drawn so many readers to these timeless works and could be the key to their enduring success.\n\n\nReferences\nLitChart, 2024. Through the Looking-Glass Youth, Identity, and Growing Up Theme Analysis. https://www.litcharts.com/lit/through-the-looking-glass/themes/youth-identity-and-growing-up SparkNotes, 2024. Through the Looking-Glass Chapter 4: Tweedledum and Tweedledee. https://www.sparknotes.com/lit/through-the-looking-glass/section4/"
   }
 ]

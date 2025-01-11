@@ -39,3 +39,16 @@ title: "Projects"
 [![](/images/story.png)](Mekong/dams_story.html){fig-alt="Story"}
 :::
 :::
+
+::: {.grid}
+::: {.g-col-6}
+### Modelling
+[![](/images/chicago/Chicago.png)](Modelling/chicago.qmd){fig-alt="Chicago"}
+:::
+
+::: {.g-col-6}
+### Sentiments
+[![](/images/alice/nrc1.png)](Sentiments/alice.qmd){fig-alt="Alice"}
+:::
+:::
+
