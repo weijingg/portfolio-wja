@@ -9,6 +9,10 @@ title: "Projects"
 :::
 
 ::: {.g-col-6}
+[![](/images/quarto.png)](https://weijingg.github.io/mapping_amazon/){fig-alt="Amazon website"}
+:::
+
+::: {.g-col-6}
 [![](/images/amazon_three/Slide1.png)](Amazon/amazon_three.qmd){fig-alt="Three Amazons"}
 :::
 :::
