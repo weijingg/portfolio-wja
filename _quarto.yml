@@ -27,12 +27,10 @@ website:
       contents:
         - text: "Collection"
           href: collection/index.qmd
-        - text: "Maps" 
-          href: collection/maps.qmd
+        - text: "Designs" 
+          href: collection/designs.qmd
         - text: "Photographs"
           href: collection/photographs.qmd
-        - text: "Diagrams"
-          href: collection/diagrams.qmd
         - text: "Rocks"
           href: collection/rocks.qmd
 
@@ -41,19 +39,19 @@ website:
     background: light
     foreground: dark
     left:
-      - text: '<img src="/images/logo.png" alt="Logo" style="height:60px;">'
+      - text: '<i class="fa fa-home fa-xl" style="color:#E6A1A8;"></i></a>'
         href: index.html
     right:
-      - text: "Home"
-        href: index.qmd
-      - text: "Projects"
-        href: projects/index.qmd
-      - text: "Collection"
-        href: collection/index.qmd
+      - text: "Research"
+        href: projects/research/research.qmd
+      - text: "Visualisation"
+        href: projects/visualisation/visualisation.qmd
+      - text: "Analysis"
+        href: projects/analysis/analysis.qmd
         
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."
-    left: "2024, WJA"
+    left: "Wei Jing Ang"
 
 format: 
   html:

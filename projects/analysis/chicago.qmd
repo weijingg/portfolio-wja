@@ -1,0 +1,11 @@
+---
+title: "ChicaGo!"
+---
+
+With fewer than 40 health inspectors in charge of over 15,000 food establishments across Chicago, the Department of Public Health seeks to optimize the allocation of its limited manpower and resources. This project presents a new application, powered by a predictive model using historical inspection data, to identify food establishments most at risk of failing inspections. By prioritizing these high-risk establishments, the health department can direct inspection efforts towards where they are most needed. To learn more about the logistic regression model, please refer to this [report](chicago_report.html).
+
+<br>
+![](//images/chicago/App1.gif)
+![](//images/chicago/App2.gif)
+![](//images/chicago/App3.gif)
+![](//images/chicago/App4.PNG)

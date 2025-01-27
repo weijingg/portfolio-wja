@@ -1,0 +1,20 @@
+---
+title: "Lake hysteresis"
+---
+
+As lake depth rises and falls with seasonal rainfall each year, the surface area of the lake grows and recedes correspondingly. One might expect a linear trend between these two variables, yet a complex cyclical relationship is observed. This phenomenon is termed hysteresis, and it controls the storage and exchange of water and sediments.
+
+While hysteresis has been repeatedly observed in the floodplain lakes of large rivers, the hydrological mechanism and factors in control have been poorly understood thus far. In this paper, we investigate the role of geomorphology in controlling lake hysteresis. 
+
+We study the floodplain lakes along three large rivers: the Curuai Lake of the Amazon River, the Tonle Sap Lake of the Mekong River, and the Poyang Lake of the Yangtze River. The three lakes exhibit a similar counter-clockwise hysteresis: for a given depth, the lake area is larger in the falling season than in the rising season. 
+
+Our results indicate that hysteresis is mainly controlled by geomorphology, where the lake shape and basin size lead to delays in the drainage and drop in lake area during the falling season. While geomorphology is the overall driver, unique lake characteristics delay the fall in water extent and shape hysteresis on a case-by-case nature. 
+
+This study is the first to address geomorphology as the primary control over lake hysteresis, which improves understanding of the stage-area curve in empirical and numerical hydrological models, and potentially floodplain management.
+
+> Ang, W. J., Park, E., & Yang, X. (2022). Geomorphic control on stage-area hysteresis in three of the largest floodplain lakes. Journal of Hydrology, 614, 128574. [https://doi.org/10.1016/j.jhydrol.2022.128574](https://doi.org/10.1016/j.jhydrol.2022.128574) 
+</br>
+
+![](/images/Slide6.jpeg)
+
+![](/images/Slide7.jpeg)

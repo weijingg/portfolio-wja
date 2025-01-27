@@ -1,0 +1,19 @@
+---
+title: "Dam distribution analysis"
+---
+
+Dams have proliferated along the Mekong, spurred by energy demands from economic development and capital from private companies. Swift dam evolution has rendered many databases outdated, and without a comprehensive database, up-to-date spatial assessment of dam growth is unavailable.
+
+In this paper, we offer (1) an open-access and unified database of 1055 dams, (2) a spatiotemporal analysis of dams from the 1980s to the post-2020s, and (3) a grid-based assessment of the theoretical hydropower potential using modelled discharge in the present-day and in the future. 
+
+The dam count of 1055 is more than twice the largest existing database. While China had the largest capacity increase from the 2000s to the 2010s, Laos has the most planned dams and the highest projected growth. Based on present-day discharge, we estimate a basin-wide hydropower potential of 1,334,683 MW, where Laos is the highest at 514,887 MW. Based on future discharge modeled with climate change, hydropower potential could grow to over 2,000,000 MW. 
+
+Our database facilitates research on dam-induced hydrological and ecological alterations, while spatiotemporal analysis of hydropower capacity could illuminate the complex transboundary electricity trade. We address the vulnerability of countries to dam construction, highlighting the need for better planning and management in the future hydropower hotspot Laos.
+
+> Ang, W. J., Park, E., Tran, D. D., Loc, H. H., & Pokhrel, Y. (2023). Dams in the Mekong: a comprehensive database, spatiotemporal distribution, and hydropower potentials. Earth System Science Data Discussions, 2023, 1-30. [https://doi.org/10.5194/essd-16-1209-2024](https://doi.org/10.5194/essd-16-1209-2024) 
+</br>
+
+![](/images/Slide8.jpeg)
+
+![](/images/Slide9.jpeg)
+

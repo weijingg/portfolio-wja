@@ -1,0 +1,19 @@
+---
+title: "Mapping floodplain bathymetry"
+---
+
+The Amazon is the world’s largest river by volume of water. Flowing from the Andes to the Atlantic Ocean, its river basin covers nearly 40% of South America. This paper focuses on the middle-lower reach of the river, where seasonal flooding has formed large floodplain lakes along the riverbanks. The lakes regulate river flow, store nutrient-rich sediments and are home to diverse species. 
+
+12 floodplain lakes along the middle-lower Amazon were studied, specifically investigating variations in their depths —
+in other words, their bathymetry. Bathymetry data is useful in different research applications, such as determining sedimentation patterns, or the influence of water seasonality on floodplain biodiversity.
+
+While bathymetry can be measured by boat surveys, this method is usually restricted to a small scale. On a larger scale, remote sensing is adopted, but reliance on light reflectance often results in less accurate measurements of cloudy water bodies like the Amazon lakes.  
+
+Considering the limitations of both methods, this paper uses a new method involving inundation frequency (IF), which refers to how often a certain part of a floodplain is flooded. As deeper parts of the floodplain would be flooded more frequently, the relationship between IF and depth can be modelled. Our new method is a versatile approach that could be applied to other rivers with sediment-rich, seasonally-inundated floodplain lakes.
+
+> Ang, W. J., Park, E., & Alcantara, E. (2021). Mapping floodplain bathymetry in the middle-lower Amazon River using inundation frequency and field control. Geomorphology, 392, 107937. [https://doi.org/10.1016/j.geomorph.2021.107937](https://doi.org/10.1016/j.geomorph.2021.107937) 
+</br>
+
+![](/images/Slide4.jpeg)
+
+![](/images/Slide5.jpeg)

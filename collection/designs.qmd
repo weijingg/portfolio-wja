@@ -1,0 +1,107 @@
+---
+title: "Designs"
+---
+
+<p style="font-size:20px">
+I love maps and data. Through my collection of scientific designs involving geospatial analysis and hydrology, I seek to portray the beauty of data, space, and our environment. 
+</p>
+<br>
+
+::: {.grid}
+
+::: {.g-col-6}
+![](/images/30days/01-WeiJing-Points.png)
+:::
+
+::: {.g-col-6}
+![](/images/30days/07-WeiJing-Vintage.png)
+:::
+
+::: {.g-col-6}
+![](/images/30days/02-WeiJing-Lines.png)
+:::
+
+::: {.g-col-6}
+![](/images/30days/26-WeiJing-Projections.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/04-WeiJing-Hexagons.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/18-WeiJing-3D.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/24-WeiJing-Circles.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/06-WeiJing-Raster.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/12-WeiJing-SpaceTime.png)
+:::
+
+::: {.g-col-12}
+![](/images/30days/16-WeiJing-Choropleth.png)
+:::
+
+::: {.g-col-12}
+![](/images/map.png)
+:::
+
+::: {.g-col-12}
+![](/images/amazon.jpg)
+:::
+
+::: {.g-col-12}
+![](//images/amazon_three/Slide4.png)
+:::
+
+::: {.g-col-12}
+![](//images/amazon_three/Slide6.png)
+:::
+
+::: {.g-col-12}
+![](/images/Slide4.jpeg)
+:::
+
+::: {.g-col-12}
+![](/images/Slide6.jpeg)
+:::
+
+::: {.g-col-12}
+![](/images/Slide8.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/Layout_BW.jpg)
+:::
+
+::: {.g-col-6}
+![](/images/Layout_coloured.jpg)
+:::
+
+::: {.g-col-12}
+![](/images/Snow.jpg)
+:::
+:::
+
+![](/images/diagrams/bar6.png)
+
+![](/images/diagrams/line3.png)
+
+![](/images/diagrams/box6.png)
+
+::: {.grid}
+::: {.g-col-6}
+![](/images/diagrams/Drainage_Basin_2.png)
+:::
+
+::: {.g-col-6}
+![](/images/diagrams/Intro.png)
+:::
+:::

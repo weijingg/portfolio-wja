@@ -1,0 +1,39 @@
+---
+title: "Research"
+---
+<p style="font-size:20px">
+I have three first-author publications in reputable peer-reviewed journals, focusing on the field of hydrology, geomorphology, remote sensing, and geospatial analysis. My google scholar profile can be viewed [here](https://scholar.google.com/citations?user=uX6hQK4AAAAJ&hl=en&authuser=1&oi=ao" target="_blank).
+</p>
+<br>
+
+### <a href="amazon_pub.qmd" style="color: black; text-decoration: none;">Mapping floodplain bathymetry</a>
+
+The depth of 12 lakes along the Amazon River was estimated using flooding frequency, with areas that flood more being expected to be deeper. Depth data is valuable for ecological and hydrological research, such as determining biodiversity distribution and modeling water stratification. 
+
+> Ang, W. J., Park, E., & Alcantara, E. (2021). Mapping floodplain bathymetry in the middle-lower Amazon River using inundation frequency and field control. Geomorphology, 392, 107937. [https://doi.org/10.1016/j.geomorph.2021.107937](https://doi.org/10.1016/j.geomorph.2021.107937) 
+</br>
+
+[![](/images/Slide4.jpeg)](amazon_pub.qmd){fig-alt="Amazon"}
+
+<br>
+
+### <a href="lakes_pub.qmd" style="color: black; text-decoration: none;">Lake hysteresis</a>
+
+As lake depth rises and falls with seasonal rainfall each year, the surface area of the lake grows and recedes correspondingly. One might expect a linear relationship between these two variables, yet a complex loop is observed. Understanding the controls behind this phenomenon sheds light on the geomorphic characteristics of large floodplain lakes. 
+
+> Ang, W. J., Park, E., & Yang, X. (2022). Geomorphic control on stage-area hysteresis in three of the largest floodplain lakes. Journal of Hydrology, 614, 128574. [https://doi.org/10.1016/j.jhydrol.2022.128574](https://doi.org/10.1016/j.jhydrol.2022.128574) 
+</br>
+
+[![](/images/Slide6.jpeg)](lakes_pub.qmd){fig-alt="Lakes"}
+
+<br>
+
+### <a href="dams_pub.qmd" style="color: black; text-decoration: none;">Dam distribution analysis</a>
+
+Dams have burgeoned in the Mekong, but information on dams is scattered and inconsistent. Up-to-date evaluation of dams is unavailable, and basin-wide hydropower potential has yet to be systematically assessed. We present a comprehensive database of 1055 dams, a spatiotemporal analysis of the dams, and a total hydropower potential of 1,334,683 MW. Considering projected dam development and hydropower potential, the vulnerability and the need for better dam management may be highest in Laos.
+
+> Ang, W. J., Park, E., Tran, D. D., Loc, H. H., & Pokhrel, Y. (2023). Dams in the Mekong: a comprehensive database, spatiotemporal distribution, and hydropower potentials. Earth System Science Data Discussions, 2023, 1-30. [https://doi.org/10.5194/essd-16-1209-2024](https://doi.org/10.5194/essd-16-1209-2024) 
+</br>
+
+[![](/images/Slide8.jpeg)](dams_pub.qmd){fig-alt="Mekong"}
+

@@ -1,0 +1,30 @@
+---
+title: "Analysis"
+---
+
+<p style="font-size:20px">
+This page documents my recent projects involving data analysis. All my journal publications with more in-depth analysis can be viewed [here](/projects/research/research.qmd).
+</p>
+<br>
+
+### <a href="https://weijingg.github.io/mapping_amazon/" style="color: black; text-decoration: none;">Mapping the Amazon River</a>
+
+This website details the key methodologies and results of my first journal publication, and further expands on the study by grouping bathymetry values by the type of wetland cover. All analysis were ran using Python. 
+
+[![](/images/quarto.png)](https://weijingg.github.io/mapping_amazon/){fig-alt="Amazon website"}
+
+<br>
+
+### <a href="chicago.qmd" style="color: black; text-decoration: none;">Predictive modelling</a>
+
+The Chicago Department of Public Health seeks to optimize the allocation of limited health inspectors across the many food establishments in the city. This project presents **ChicaGo!**, a new application that predicts food establishments most at risk of failing inspections. By prioritizing these establishments, the health department can direct inspection efforts towards where they are most needed.
+
+[![](/images/chicago/App1.gif)](chicago.qmd){fig-alt="Chicago"}
+
+<br>
+
+### <a href="alice.qmd" style="color: black; text-decoration: none;">Sentiment analysis</a>
+
+This project compares the dominant sentiments and emotional tones across Lewis Carroll’s Alice’s Adventures in Wonderland (1865) and its sequel, Through the Looking-Glass and What Alice Found There (1871), revealing patterns on their emotional depth and narrative structure, and offering fresh insights into Carroll’s imaginative storytelling.
+
+[![](/images/alice/nrc1.png)](alice.qmd){fig-alt="Alice"}

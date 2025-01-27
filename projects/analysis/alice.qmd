@@ -1,0 +1,62 @@
+---
+title: "Wonderland and Looking Glass"
+---
+
+Lewis Carroll’s Alice’s Adventures in Wonderland (1865) and its sequel, Through the Looking-Glass and What Alice Found There (1871), are two of the most beloved works in English literature. Both books follow the adventures of a young girl named Alice as she journeys through fantastical and often nonsensical worlds.
+
+In Alice’s Adventures in Wonderland, Alice falls down a rabbit hole into a magical realm filled with peculiar characters such as the Cheshire Cat and Mad Hatter. The story is known for its whimsical narrative and exploration of themes like curiosity, identity, and the absurdity of adult rules.
+
+Through the Looking-Glass serves as a sequel but is distinct in tone and structure. Alice, now half a year older, steps through a mirror into a world that operates like a giant chessboard, where she encounters figures such as Tweedledee and Tweedledum, and the Red and White Queens. This book is darker and more introspective, with greater emphasis on the loss of childhood innocence and transition into adulthood. 
+
+This project compares the dominant sentiments and emotional tones across the two books, revealing patterns on their emotional depth and narrative structure, and offering fresh insights into Carroll's imaginative storytelling.
+
+Sentiment analysis involves extracting emotions expressed in text. A sentiment lexicon is a collection of words, each associated with a score indicating its positive, negative, or neutral sentiment. Various lexicons (e.g. NRC, AFINN, Syuzhet) are used to analyze sentiment scores. Both texts are split into paragraphs and several paragraphs are grouped as one corpus entry. To account for uneven word counts across entries, the total sentiment score of each entry is weighed by the number of terms and normalized.
+
+### Alice’s Adventures in Wonderland
+In Alice’s Adventures in Wonderland, the words that appear the most frequently include “came”, “went”, “looked”, “think”, and “say”. These words are simple verbs, which can be expected in a work primarily written as a children’s book. These verbs are also fitting in the story’s context, considering that it is about an adventure that involves meeting many new characters.
+
+![](//images/alice/cloud1.png)
+
+Looking at the main sentiment identified across the paragraphs (using the NRC sentiment lexicon), positive sentiments are the most common, as expected from a children’s book, followed by negative sentiments, likely when Alice encounters strange situations and characters in her dream. There is a wide range of sentiments, including anger, anticipation, fear, sadness, surprise, and trust, suggesting that the work is emotionally-rich and expressive.
+
+![](//images/alice/hist1.png)
+
+The constant variation in emotional intensity across the book could be what creates suspense in the story, keeping readers engaged and in anticipation of what will happen next. In particular, the overall sentiment intensity is higher towards the end of the story when Alice encounters the Queen of Hearts (who threatens her) and wakes up in a shock. 
+
+![](//images/alice/nrc1.png)
+
+The same frightful encounter with the Queen is evident when using the AFINN lexicon, where there is a strong negative score right before the somewhat positive ending. 
+
+![](//images/alice/afinn1.png)
+
+### Through the Looking-Glass
+In Through the Looking-Glass, the most frequently occurring words include “like,” “now,” “last,” “always,” and “good". Compared to Alice’s Adventures in Wonderland, these words convey a more mature tone and are less expressive. With simple verbs appearing less often, the story feels less adventurous and whimsical. 
+
+<center>
+![](//images/alice/cloud2.png)
+</center>
+<br>
+The more subdued tone is also evident in the main sentiments identified across the paragraphs. While positive sentiments are still the most common, followed by negative sentiments, there is a smaller range of sentiments compared to Alice’s Adventures in Wonderland despite the longer text. Anticipation stands out as the third most frequent emotion, primarily expressed through the structure of the chess game as Alice progresses through the squares.
+
+Interestingly, while the first book had sadness as a main sentiment in several corpus entries, the sequel has joy as a main sentiment, suggesting that while the second book is more mature and explores the transition from childhood to adulthood, it is not necessarily somber in tone.  
+
+![](//images/alice/hist2.png)
+
+Like in the first story, the emotional intensity varies across the book, keeping readers engaged. The intensity peaks when Alice, now the queen, argues with the Red and White Queens, who insist that Alice throw a party, yet deny her the right to invite her own guests. Although Alice wants to be a queen throughout the story, actually becoming a queen was not as enjoyable as she expected. The party is seen as a metaphor for adulthood, which appears desirable during childhood, yet not what one might expect upon growing up (LitCharts, 2024). 
+
+![](//images/alice/nrc2.png)
+
+This strong negative sentiment during the party is also seen when using other lexicons like Syuzhet. The sentiment score generally increases from negative to positive after the argument, and the story ends on a positive note, when Alice wakes up and chats with her cats about her dream. 
+
+Another strong negative sentiment is captured when Tweedledee and Tweedledum tell Alice that she is not real but just a character within the dream of the Red King, and Alice cries as she questions her existence and reality. This section of the story also challenges the readers to question reality, free will, and the notion of existence as a fragment of divine imagination (SparkNotes, 2024).
+
+![](//images/alice/syuzhet2.png)
+
+### Discussion
+Overall, Lewis Carroll’s Through the Looking-Glass and What Alice Found There has a more mature and subdued tone, though not necessarily somber. In contrast, Alice’s Adventures in Wonderland carries a more adventure-like and light-hearted tone, evoking childhood innocence. This sense of wonder diminishes in the second book, as Alice learns about adulthood and comes to accept the sometimes questionable world for what it is. 
+
+Both books feature a dynamic range of emotional intensity, exploring a fairly broad spectrum of feelings. This emotional variation may be what has drawn so many readers to these timeless works and could be the key to their enduring success.
+
+### References
+LitChart, 2024. Through the Looking-Glass Youth, Identity, and Growing Up Theme Analysis. https://www.litcharts.com/lit/through-the-looking-glass/themes/youth-identity-and-growing-up 
+SparkNotes, 2024. Through the Looking-Glass Chapter 4: Tweedledum and Tweedledee. https://www.sparknotes.com/lit/through-the-looking-glass/section4/ 

@@ -3,3 +3,16 @@ title: "Collection"
 ---
 
 This collection features my design work from various projects and favourite moments captured through my photography hobby. It is a record of my personal journey over the years. 
+
+
+![](/images/amazon.jpg)
+
+::: {.grid}
+::: {.g-col-6}
+![](/images/photos/48-close2.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/photos/49-pillar1.jpeg)
+:::
+:::
