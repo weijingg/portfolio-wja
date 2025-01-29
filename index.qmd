@@ -33,11 +33,25 @@ editor: source
 
 :::
 </br>
-I am a master's student in spatial analytics with a background in environmental research. Through three journal publications in remote sensing and hydrology, I have developed a strong interest in data analysis and visualization. I aim to leverage my skill set to effectively communicate data-driven insights and inform decision-making.
+I am a master's student in spatial analytics with a background in environmental research. Through three journal publications in remote sensing and hydrology, I have developed a strong interest in **data analysis and visualisation**. I aim to leverage my skill set to effectively **communicate data-driven insights and inform decision-making**.
 
-I hold a bachelor's degree in Earth Science, specializing in Geosciences. Fluent in English, Chinese, and Japanese, my passion for learning languages has shaped my ability to approach problems creatively from diverse perspectives. 
+I hold a bachelor's degree in Earth Science, specializing in Geosciences. Fluent in **English, Chinese, and Japanese**, my passion for learning languages has shaped my ability to approach problems creatively from diverse perspectives. 
 </br>
 </br>
+
+### Projects
+
+::: {.grid}
+::: {.g-col-6}
+[![](images/thumbnails/visualisation2.jpg)](projects/visualisation/visualisation.qmd)
+:::
+
+::: {.g-col-6}
+[![](images/thumbnails/analysis.jpg)](projects/analysis/analysis.qmd)
+:::
+
+:::
+
 
 ### <a href="projects/research/research.qmd" style="color: black; text-decoration: none;">Publications</a>
 
@@ -57,7 +71,7 @@ I hold a bachelor's degree in Earth Science, specializing in Geosciences. Fluent
 :::
 
 
-### <a href="collection/index.qmd" style="color: black; text-decoration: none;">Collection</a>
+### <a href="collection/index.qmd" style="color: black; text-decoration: none;">Collections</a>
 
 ::: {.grid}
 ::: {.g-col-4}

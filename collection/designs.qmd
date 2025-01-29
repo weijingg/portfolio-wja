@@ -65,16 +65,28 @@ I love maps and data. Through my collection of scientific designs involving geos
 ![](//images/amazon_three/Slide6.png)
 :::
 
-::: {.g-col-12}
+::: {.g-col-6}
 ![](/images/Slide4.jpeg)
 :::
 
-::: {.g-col-12}
+::: {.g-col-6}
+![](/images/Slide5.jpeg)
+:::
+
+::: {.g-col-6}
 ![](/images/Slide6.jpeg)
 :::
 
-::: {.g-col-12}
+::: {.g-col-6}
+![](/images/Slide7.jpeg)
+:::
+
+::: {.g-col-6}
 ![](/images/Slide8.jpeg)
+:::
+
+::: {.g-col-6}
+![](/images/Slide9.jpeg)
 :::
 
 ::: {.g-col-6}

@@ -42,12 +42,12 @@ website:
       - text: '<i class="fa fa-home fa-xl" style="color:#E6A1A8;"></i></a>'
         href: index.html
     right:
-      - text: "Research"
-        href: projects/research/research.qmd
       - text: "Visualisation"
         href: projects/visualisation/visualisation.qmd
       - text: "Analysis"
         href: projects/analysis/analysis.qmd
+      - text: "Research"
+        href: projects/research/research.qmd
         
   page-footer:
     right: "This page is built with {{< fa heart >}} and [Quarto](https://quarto.org/)."

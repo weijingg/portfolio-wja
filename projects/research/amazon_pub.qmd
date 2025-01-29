@@ -1,5 +1,5 @@
 ---
-title: "Mapping floodplain bathymetry"
+title: "Mapping floodplain depths"
 ---
 
 The Amazon is the world’s largest river by volume of water. Flowing from the Andes to the Atlantic Ocean, its river basin covers nearly 40% of South America. This paper focuses on the middle-lower reach of the river, where seasonal flooding has formed large floodplain lakes along the riverbanks. The lakes regulate river flow, store nutrient-rich sediments and are home to diverse species. 

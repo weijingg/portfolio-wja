@@ -7,19 +7,19 @@ This page showcases my key projects involving data visualisation and creative co
 </p>
 <br>
 
+### <a href="dams_story.html" style="color: black; text-decoration: none;">Dams in the Mekong</a>
+
+This project conveys research findings regarding the dam network in the Mekong River Basin to the public through an engaging format with interactive elements. The visualisations are reproducible in **R**, with all codes available in this [github repository](https://github.com/weijingg/comms_HW2).
+
+[![](/images/story.png)](dams_story.html){fig-alt="Story"}
+
+<br>
+
 ### <a href="amazon_three.qmd" style="color: black; text-decoration: none;">Three Amazons</a>
 
 This project explores the possibility of a vertical Amazon through a tactile crochet piece. While the Amazon is typically seen horizontally in plan, it can be reimagined vertically in section, as a three-layered system comprising the Voadores, the Amazon, and the Hamza. 
 
 [![](/images/amazon_three/Slide1.png)](amazon_three.qmd){fig-alt="Three Amazons"}
-
-<br>
-
-### <a href="dams_story.html" style="color: black; text-decoration: none;">Dams in the Mekong</a>
-
-This communication project conveys the findings from my third journal publication to the public through an engaging format with interactive elements. The visualisations are reproducible in R, with all codes available in this [github repository](https://github.com/weijingg/comms_HW2).
-
-[![](/images/story.png)](dams_story.html){fig-alt="Story"}
 
 <br>
 

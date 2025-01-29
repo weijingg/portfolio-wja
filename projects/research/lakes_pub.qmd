@@ -1,5 +1,5 @@
 ---
-title: "Lake hysteresis"
+title: "Lake behaviour"
 ---
 
 As lake depth rises and falls with seasonal rainfall each year, the surface area of the lake grows and recedes correspondingly. One might expect a linear trend between these two variables, yet a complex cyclical relationship is observed. This phenomenon is termed hysteresis, and it controls the storage and exchange of water and sediments.

@@ -6,7 +6,7 @@ I have three first-author publications in reputable peer-reviewed journals, focu
 </p>
 <br>
 
-### <a href="amazon_pub.qmd" style="color: black; text-decoration: none;">Mapping floodplain bathymetry</a>
+### <a href="amazon_pub.qmd" style="color: black; text-decoration: none;">Mapping floodplain depths</a>
 
 The depth of 12 lakes along the Amazon River was estimated using flooding frequency, with areas that flood more being expected to be deeper. Depth data is valuable for ecological and hydrological research, such as determining biodiversity distribution and modeling water stratification. 
 
@@ -17,7 +17,7 @@ The depth of 12 lakes along the Amazon River was estimated using flooding freque
 
 <br>
 
-### <a href="lakes_pub.qmd" style="color: black; text-decoration: none;">Lake hysteresis</a>
+### <a href="lakes_pub.qmd" style="color: black; text-decoration: none;">Lake behaviour</a>
 
 As lake depth rises and falls with seasonal rainfall each year, the surface area of the lake grows and recedes correspondingly. One might expect a linear relationship between these two variables, yet a complex loop is observed. Understanding the controls behind this phenomenon sheds light on the geomorphic characteristics of large floodplain lakes. 
 
