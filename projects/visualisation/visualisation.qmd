@@ -23,6 +23,14 @@ This project explores the possibility of a vertical Amazon through a tactile cro
 
 <br>
 
+### <a href="https://weijingg.github.io/Singapore_water" style="color: black; text-decoration: none;">Singapore's water policy</a>
+
+This project presents the historical milestones, management policies, and future challenges of Singapore's water resource system, and imagines Singapore's future plans to build a "Long Island" through a series of digital renders made using Photoshop. 
+
+[![](/images/sg_water.png)](https://weijingg.github.io/Singapore_water/){fig-alt="Singapore's water"}
+
+<br>
+
 ### <a href="https://storymaps.arcgis.com/stories/25467ad902224761b111cd5f588f8d0e" style="color: black; text-decoration: none;">Skyrise greenery</a>
 
 This storymap explores the types and distribution of skyrise greenery in Singapore, based on an independent fieldwork conducted along the southeast zone of the country.
