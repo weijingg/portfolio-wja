@@ -6,10 +6,11 @@ Over the past decades, the U.S. population has become increasingly racially and 
 
 This interactive dashboard brings to life a multi-scalar study of how neighborhood racial and ethnic compositions have evolved in 66 U.S. metropolitan areas from 1990 to 2020, using multiple unsupervised time series clustering approaches. The dashboard is available [here](https://weijingg.github.io/Practicum/). 
 
-Using Philadelphia's University City as a case study, applying time series clustering on a national scale by census tract reveals broad trends of diversification. Using a nested approach by grouping metropolitan statistical areas, University City follows a slower and more limited diversification trajectory. 
+Using Philadelphia's University City as a case study, applying time series clustering on a national scale by census tract reveals broad trends of diversification. Adopting a nested approach by grouping metropolitan statistical areas, University City follows a slower and more limited diversification trajectory. 
 On a local scale within the metro area and with the addition of the Asian population, University City is classified into a minor group, suggesting a more complex trajectory influenced by localized factors.
 
 <br>
+
 ![](//images/neigh/landing-page.jpg)
 
 ![](//images/neigh/single.jpg)
@@ -17,3 +18,5 @@ On a local scale within the metro area and with the addition of the Asian popula
 ![](//images/neigh/double.jpg)
 
 ![](//images/neigh/specific.png)
+
+![](//images/neigh/methods.gif)

@@ -1,0 +1,16 @@
+---
+title: "Cloud computing"
+---
+
+This project builds a data pipeline in **Google Cloud** to automate data collection and transform open source data into a dashboard with predicted property prices for Philadelphia's property owners and assessors at the city scale and the neighborhood scale. 
+
+All cloud functions and the cloud workflow are deployed using **Python** scripts, and the data is queried using **SQL and BigQuery**. The property prices are predicted using a random forest model, and loaded into the dashboard using vector tiles, API, and json files. 
+
+The dashboard is available [here](https://weijingg.github.io/s25-team5-cama/). 
+
+<br>
+![](//images/cama/landing-page.png)
+
+![](//images/cama/neighborhood.png)
+
+![](//images/cama/workflow.png)

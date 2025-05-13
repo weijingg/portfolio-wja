@@ -1,0 +1,40 @@
+---
+title: "Habitability in a changing climate"
+---
+
+This project assesses global human habitability with a changing climate, using a composite index derived from multiple raster layers.
+Each layer is an environmental factor, including topography, soil nutrient, water availability, wet bulb temperature, consecutive dry days, flooding, and biodiversity. 
+
+Red zones exceed the extreme threshold for any given factor, green zones are within acceptable thresholds for all factors, and yellow zones are ambiguous areas that are liveable but not ideal.
+Thresholds are determined based on litereature review, or quantiles and outliers weighted by human population.
+
+<br>
+**Habitability in 2100**
+![](//images/refugia/Habitability-2100.png)
+
+**Current habitability**
+![](//images/refugia/Habitability-Current.png)
+
+**Difference in habitability**
+![](//images/refugia/Difference.png)
+
+**Topography**
+![](//images/refugia/Topo.png)
+
+**Soil nutrient**
+![](//images/refugia/Soil.png)
+
+**Water availability**
+![](//images/refugia/Water.png)
+
+**Wet bulb temperature**
+![](//images/refugia/Wet-Bulb.png)
+
+**Consecutive dry days**
+![](//images/refugia/CDD.png)
+
+**Flooding (5m)**
+![](//images/refugia/Flooding.png)
+
+**Biodiversity intactness**
+![](//images/refugia/Biodiversity.png)

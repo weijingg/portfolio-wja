@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Neighborhood Trajectories – Wei Jing Ang</title>
+<title>Cloud computing – Wei Jing Ang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -119,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Neighborhood Trajectories</h1>
+<h1 class="title">Cloud computing</h1>
 </div>
 
 
@@ -136,15 +136,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Over the past decades, the U.S. population has become increasingly racially and ethnically diverse. These national demographic trends have reshaped local neighborhoods, but with considerable variation depending on metropolitan-scale dynamics.</p>
-<p>This interactive dashboard brings to life a multi-scalar study of how neighborhood racial and ethnic compositions have evolved in 66 U.S. metropolitan areas from 1990 to 2020, using multiple unsupervised time series clustering approaches. The dashboard is available <a href="https://weijingg.github.io/Practicum/">here</a>.</p>
-<p>Using Philadelphia’s University City as a case study, applying time series clustering on a national scale by census tract reveals broad trends of diversification. Adopting a nested approach by grouping metropolitan statistical areas, University City follows a slower and more limited diversification trajectory. On a local scale within the metro area and with the addition of the Asian population, University City is classified into a minor group, suggesting a more complex trajectory influenced by localized factors.</p>
-<p><br></p>
-<p><img src="../../images/neigh/landing-page.jpg" class="img-fluid"></p>
-<p><img src="../../images/neigh/single.jpg" class="img-fluid"></p>
-<p><img src="../../images/neigh/double.jpg" class="img-fluid"></p>
-<p><img src="../../images/neigh/specific.png" class="img-fluid"></p>
-<p><img src="../../images/neigh/methods.gif" class="img-fluid"></p>
+<p>This project builds a data pipeline in <strong>Google Cloud</strong> to automate data collection and transform open source data into a dashboard with predicted property prices for Philadelphia’s property owners and assessors at the city scale and the neighborhood scale.</p>
+<p>All cloud functions and the cloud workflow are deployed using <strong>Python</strong> scripts, and the data is queried using <strong>SQL and BigQuery</strong>. The property prices are predicted using a random forest model, and loaded into the dashboard using vector tiles, API, and json files.</p>
+<p>The dashboard is available <a href="https://weijingg.github.io/s25-team5-cama/">here</a>.</p>
+<p><br> <img src="../../images/cama/landing-page.png" class="img-fluid"></p>
+<p><img src="../../images/cama/neighborhood.png" class="img-fluid"></p>
+<p><img src="../../images/cama/workflow.png" class="img-fluid"></p>
 
 
 

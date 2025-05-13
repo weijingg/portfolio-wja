@@ -11,7 +11,7 @@ This page showcases my key projects involving data visualisation and creative co
 
 This [interactive dashboard](weijingg.github.io/Practicum/) brings to life a multi-scalar study of how neighborhood racial and ethnic compositions have evolved in 66 U.S. metropolitan areas from 1990 to 2020.
 
-[![](/images/neigh/landing-page.jpg)](neigh.qmd){fig-alt="Story"}
+[![](/images/neigh/landing-page.jpg)](neigh.qmd){fig-alt="Neigh"}
 
 <br>
 

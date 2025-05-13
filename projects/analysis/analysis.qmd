@@ -7,11 +7,27 @@ This page documents my recent projects involving data analysis. Additional resea
 </p>
 <br>
 
+### <a href="raster.qmd" style="color: black; text-decoration: none;">Raster analysis</a>
+
+This project assesses global human habitability with a changing climate, using a composite index derived from multiple environmental factors like topography and wet bulb temperature. All data analysis and visualization are reproducible using **Python** scripts.
+
+[![](/images/refugia/Habitability-2100.png)](raster.qmd){fig-alt="Refugia project"}
+
+<br>
+
 ### <a href="https://weijingg.github.io/mapping_amazon/" style="color: black; text-decoration: none;">Remote sensing</a>
 
 This website details the key methodologies and results of mapping lakes along the Amazon River using **remote sensing**, and studies the relationship between lake depths and the type of wetland cover. All analysis were ran using **Python**. 
 
 [![](/images/quarto.png)](https://weijingg.github.io/mapping_amazon/){fig-alt="Amazon website"}
+
+<br>
+
+### <a href="cama.qmd" style="color: black; text-decoration: none;">Cloud computing</a>
+
+This project builds a data pipeline in **Google Cloud** to transform open source data into a dashboard with predicted property prices for Philadelphia's property owners and assessors. The dashboard is available [here](https://weijingg.github.io/s25-team5-cama/). 
+
+[![](/images/cama/landing-page.png)](cama.qmd){fig-alt="Cloud computing"}
 
 <br>
 
