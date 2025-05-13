@@ -7,6 +7,14 @@ This page showcases my key projects involving data visualisation and creative co
 </p>
 <br>
 
+### <a href="neigh.qmd" style="color: black; text-decoration: none;">Neighborhood Trajectories</a>
+
+This [interactive dashboard](weijingg.github.io/Practicum/) brings to life a multi-scalar study of how neighborhood racial and ethnic compositions have evolved in 66 U.S. metropolitan areas from 1990 to 2020.
+
+[![](/images/neigh/landing-page.jpg)](neigh.qmd){fig-alt="Story"}
+
+<br>
+
 ### <a href="dams_story.html" style="color: black; text-decoration: none;">Dams in the Mekong</a>
 
 This project conveys research findings regarding the dam network in the Mekong River Basin to the public through an engaging format with interactive elements. The visualisations are reproducible in **R**, with all codes available in this [github repository](https://github.com/weijingg/comms_HW2).
@@ -23,11 +31,11 @@ This project explores the possibility of a vertical Amazon through a tactile cro
 
 <br>
 
-### <a href="https://weijingg.github.io/Singapore_water" style="color: black; text-decoration: none;">Singapore's water policy</a>
+### <a href="sg_water.qmd" style="color: black; text-decoration: none;">Singapore's water policy</a>
 
-This project presents the historical milestones, management policies, and future challenges of Singapore's water resource system, and imagines Singapore's future plans to build a "Long Island" through a series of digital renders made using Photoshop. 
+This project presents the historical milestones, management policies, and future challenges of Singapore's water resource system, and imagines Singapore's future plans to build a **"Long Island"** through a series of digital renders made using Photoshop. 
 
-[![](/images/sg_water.png)](https://weijingg.github.io/Singapore_water/){fig-alt="Singapore's water"}
+[![](/images/sg_water/sg_water.png)](sg_water.qmd){fig-alt="Singapore's water"}
 
 <br>
 

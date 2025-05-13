@@ -1,0 +1,22 @@
+---
+title: "Singapore's water policy"
+---
+
+The World Resources Institute identified Singapore as one of the most water stressed country by 2040. Singapore is not water scarce due to the lack of rainfall, but due to the lack of land to store water, and this will only pose a greater challenge with encroaching sea levels.
+
+This project presents the historical milestones and management policies of Singapore's water system, including the Four National Taps as a diversified water supply strategy, public-private partnerships and cross-agency collaborations, as well as a transition from protected to unprotected catchments to maximise land use and reconnect people with water.  
+
+Focusing on future challenges posed by climate change, Singapore's plans to build a **"Long Island"** as a mitigation strategy against sea level rise is envisioned through a series of digital renders. The visualisations imagine Long Island's design from satellite imagery, housing developments from an aerial view, recreational activities around the reservoir, and a potential floodplain to accommodate flash floods and rising tides. 
+
+The full report is available [here](https://weijingg.github.io/Singapore_water/).
+
+<br>
+![](//images/sg_water/taps.gif)
+
+![](//images/sg_water/GE-after.png)
+
+![](//images/sg_water/Aerial-after.png)
+
+![](//images/sg_water/ECP-after.png)
+
+![](//images/sg_water/Home-after.png)
