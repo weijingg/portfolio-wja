@@ -44,3 +44,11 @@ This project presents the historical milestones, management policies, and future
 This storymap explores the types and distribution of skyrise greenery in Singapore, based on an independent fieldwork conducted along the southeast zone of the country.
 
 [![](/images/skyrise.png)](https://storymaps.arcgis.com/stories/25467ad902224761b111cd5f588f8d0e){fig-alt="Skyrise greenery"}
+
+<br>
+
+### <a href="https://weijingg.github.io/Green-Cover/" style="color: black; text-decoration: none;">Green cover</a>
+
+This prototype dashboard visualises the changes in Singapore's green cover across planning areas, using NDVI derived from Sentinel-2 imagery.
+
+[![](/images/Green_cover.png)](https://weijingg.github.io/Green-Cover/){fig-alt="Green cover"}

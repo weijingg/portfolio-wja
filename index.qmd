@@ -12,7 +12,7 @@ editor: source
 ::: {.g-col-7} 
 # Wei Jing Ang
 
-#### Master's Student in Urban Spatial Analytics </br> at the University of Pennsylvania
+#### Geospatial Researcher </br> [Urban Spatial Analytics &nbsp;•&nbsp; Environmental Science]{.subtitle-line}
 </br>
 
 <p align="left">
@@ -33,9 +33,9 @@ editor: source
 
 :::
 </br>
-I am a master's student in spatial analytics with a background in environmental research. Through three journal publications in remote sensing and hydrology, I have developed a strong interest in **data analysis and visualisation**. I aim to leverage my skill set to effectively **communicate data-driven insights and inform decision-making**.
-
-I hold a bachelor's degree in Earth Science, specializing in Geosciences. Fluent in **English, Chinese, and Japanese**, my passion for learning languages has shaped my ability to approach problems creatively from diverse perspectives. 
+I'm a <b>geospatial researcher</b> with a background in urban spatial analytics and environmental science. 
+My experience spans <b>remote sensing, hydrology research, urban greenery, and spatial data analysis</b>, supported by three peer-reviewed publications. 
+I enjoy translating complex spatial patterns into <b>clear, visually engaging insights</b> that support evidence-based decisions.
 </br>
 </br>
 
